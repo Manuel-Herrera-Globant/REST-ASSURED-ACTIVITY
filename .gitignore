@@ -1,0 +1,13 @@
+# Compilación y binarios
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Visual Studio Code
+.vscode/
+
+# Logs y archivos temporales
+*.log
+.DS_Store
